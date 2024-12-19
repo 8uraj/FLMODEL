@@ -1,6 +1,7 @@
 # Federated Learning for Predicting Cardiovascular Diseases
 
-![Research Banner](https://c8.alamy.com/comp/2RC2JWH/banner-research-concept-vector-illustration-with-the-icon-of-analysis-data-survey-development-fact-knowledge-and-data-entry-2RC2JWH.jpg) 
+![Research Banner](https://github.com/user-attachments/assets/122d54e3-c846-4a06-8a80-3bb109f95677)
+) 
 **A Privacy-Preserving Approach to Heart Disease Prediction Using Federated Learning**
 
 ## 📖 Overview
