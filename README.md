@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 This research is detailed in our paper:  
 > **Developing a Scalable and Privacy-Preserving Federated Learning Model for Predicting Cardiovascular Diseases**  
-> Authors: Om Wagh, Suraj Yelpale, Rutuja Shinde, Prof. Dr. Pankaj Chandre
+> Authors: Suraj Yelpale, Om Wagh, Rutuja Shinde, Prof. Dr. Pankaj Chandre
 
 ---
 
