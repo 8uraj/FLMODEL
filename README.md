@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
     ```bash
     git clone https://github.com/8uraj/FLMODEL.git
-    cd federated-cardiac-prediction
+    cd FLMODEL
     ```
 
 2. **Prepare Datasets**:  
